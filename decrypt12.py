@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#MjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjIyMjL/wAARCAKAAoADASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAwQBAgUGAAf/xAA3EAACAgEDAwQCAAUEAQQCAwAAAQIDEQQSIQUxQRMiUWEycQYUI0KBM1KRoRUWJLHBcvElNGL/xAAYAQEBAQEBAAAAAAAAAAAAAAABAAIDBP/EAB0RAQEBAQEBAQEBAQAAAAAAAAABEQISITEDMkH/2gAMAwEAAhEDEQA/APmNy4YhYmaVscwZn2I5R3oEF/V/usr/bin/env python
 
 """ decrypt12.py: Decrypts WhatsApp msgstore.db.crypt12 files. """
 """               Requires pycrypto and pycryptodome packages. """
